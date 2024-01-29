@@ -7,10 +7,10 @@ Programa de prototipagem:
 Figma
 
 Linguagens:
-HTML
-CSS
-JavaScript
-Python
+HTML,
+CSS,
+JavaScript,
+Python,
 
 
 <!--
