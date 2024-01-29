@@ -1,4 +1,17 @@
-### Hi there 👋
+Hi there 👋
+Olá me chamo Camilly Victória, tenho 20 anos e sou estudante de Design e Programação.
+
+Atualmente estou cursando Design Bacharelado na Universidade Ceuma e tambem faço curso de programação focado na área de front-end. Estou focada em aprimorar meus conhecimentos na área de UX Designer e desenvolvedora front-end.
+
+Programa de prototipagem:
+Figma
+
+Linguagens:
+HTML
+CSS
+JavaScript
+Python
+
 
 <!--
 **CamysN/CamysN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
