@@ -6,11 +6,11 @@
 Estou focada em aprimorar meus conhecimentos na área de UX/UI Designer e desenvolvimento front-end.
 <div>
   <a href="https://github.com/CamysN">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CamysN&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CamysN&show_icons=true&theme=highcontrast"/>
 </div>
 <div>
   <a href="https://github.com/CamysN">
-  <img height="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamysN&layout=donut-vertical&theme=tokyonight"/>
+  <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamysN&layout=donut-vertical&theme=highcontrast"/>
 </div>
 
 ## Linguagens:
