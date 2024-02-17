@@ -6,11 +6,11 @@
 Estou focada em aprimorar meus conhecimentos na área de UX/UI Designer e desenvolvimento front-end.
 <div>
   <a href="https://github.com/CamysN">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CamysN&show_icons=true&theme=highcontrast"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CamysN&show_icons=true&theme=cobalt"/>
 </div>
 <div>
   <a href="https://github.com/CamysN">
-  <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamysN&layout=donut-vertical&theme=highcontrast"/>
+  <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamysN&layout=donut-vertical&theme=cobalt"/>
 </div>
 
 ## Linguagens:
@@ -22,7 +22,7 @@ Estou focada em aprimorar meus conhecimentos na área de UX/UI Designer e desenv
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
-## 
+## Contatos:
 
 <div> 
   <a href="https://www.instagram.com/camyneves_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
