@@ -1,4 +1,7 @@
 ## Olá! me chamo Camilly Neves 😊👋
+<div>
+  <img height="280em" src="https://raw.githubusercontent.com/gist/CamysN/cbe785d330442c7f235c30ccfd716244/raw/d44077b2898cbd3914f41615e74818a481f307a8/personagem.svg"/>
+</div>
 
 - 📚 Estudando Design bacharelado na Universidade Ceuma 5º período.
 - 💻 Estudando programação na área de desenvolvimento front end pelo curso incode da OxigeniDIT.
