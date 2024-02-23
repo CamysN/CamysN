@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5AFFAD&center=true&vCenter=true&random=false&width=435&lines=Ola!+Me+chamo+Camilly+Neves+😊+👋;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=DE69CF&center=true&vCenter=true&random=false&width=435&lines=Ola!+Me+chamo+Camilly+Neves+😊+👋;)](https://git.io/typing-svg)
 ##
 - 📚 Estudando Design bacharelado na Universidade Ceuma 5º período.
 - 💻 Estudando programação na área de desenvolvimento front end pelo curso incode da OxigeniDIT.
